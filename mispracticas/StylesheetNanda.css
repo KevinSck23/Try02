@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica;
+}
+
+header {
+    background-color: rgb(179, 153, 113);
+
+}
+
+nav {
+    background-color: rgb(250, 181, 135);
+}
+
+p {
+    text-align: justify;
+    
+}
+
+main {
+    background-color: lightsteelblue;
+}
+
+aside {
+    padding: 2cm;
+    background-color: bisque;
+}

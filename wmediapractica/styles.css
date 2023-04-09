@@ -1,0 +1,21 @@
+main{
+    background-color: lightyellow;
+    padding: 20px;
+}
+
+h1{
+    color: gray;
+}
+
+h2{
+    color: lightgray;
+}
+
+li{
+    font-size: 26px;
+}
+
+.element{
+    font-weight: bold;
+}
+
